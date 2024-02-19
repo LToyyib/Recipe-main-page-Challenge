@@ -125,7 +125,9 @@ span{
         border-radius: 0%;
         margin: 0;
     }
-    
+    body{
+        margin: 0%;
+    }
 
     .down img {
         width: 120%;
